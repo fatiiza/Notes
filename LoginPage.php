@@ -104,10 +104,11 @@ try {
             </div>
             <div class="link">
                 <button type="submit" class="btn con">Connexion</button>
-                <a href="signup.php">cree votre compte</a>
+                <a href="index.php">cree votre compte</a>
             </div>
         </form>
     </div>
 
 </body>
+
 </html>
